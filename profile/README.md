@@ -1,49 +1,25 @@
-<div align="center">
-  
-# Welcome to Impin 👋
+# Impin
 
-*Transforming Ideas into Digital Solutions*
+Software studio based in France. We design and build web platforms, SaaS products and custom tools for businesses that need software that actually works.
 
+## What we build
 
-</div>
+- Web applications and SaaS platforms, from spec to production
+- Point of sale and payment integrations
+- Browser extensions and internal tools
+- Mobile apps
+- Technical consulting when a project needs a second pair of eyes
 
-## 🚀 About Us
+We work mostly with TypeScript, React and Node, but we pick the stack that fits the problem, not the other way around.
 
-Impin is a software development and web creation company based in Paris, France. We specialize in delivering high-quality digital solutions tailored to meet our clients' unique needs.
+## How we work
 
-### 💫 What We Do
+Small team, direct communication, no layers between you and the people writing the code. We scope honestly, ship in short cycles and stay involved after delivery.
 
-- 💻 Custom Software Development
-- 🌐 Web Application Development
-- 📱 Mobile App Development
-- 🎨 UI/UX Design
-- 🔧 Technical Consulting
+## Contact
 
-## 🤝 Work With Us
+- Site: [impin.fr](https://impin.fr)
+- Mail: [m.pereira@impin.fr](mailto:m.pereira@impin.fr)
+- LinkedIn: [Impin](https://linkedin.com/company/impin)
 
-We're always looking to collaborate with talented individuals and organizations. Whether you're interested in:
-- 📈 Business partnerships
-- 💼 Career opportunities
-- 🤖 Open source contributions
-
-We'd love to hear from you!
-
-## 📫 Connect With Us
-
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-impin.fr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://impin.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Impin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/impin)
-[![Email](https://img.shields.io/badge/Email-contact%40impin.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@impin.fr)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 *Turning Vision into Reality*
-
-<sub>© 2025 Impin. All rights reserved.</sub>
-
-</div>
+© 2026 Impin
